@@ -1,0 +1,120 @@
+{
+  "main": {
+    "name":"Jude Ganihu",
+    "occupation":"Mobile Developer/Front End Engineer",
+    "description":" currently open to new offers. ",
+    "employer":"Shop Your Own Mortgage",
+    "jobDescription":"full stack software engineer across the range of our products, as well being our lead security specialist",
+    "image":"profile_pic.jpg",
+    "bio":"I am an athlete at heart, with an entrepreneurial spirit, a knack for online security, and a passion for coding. I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, as continuing to be up to date with the tech ecosystem is important to me and the success of my career.",
+    "email": "ganihujude@gmail.com",
+    "address":{      
+      "city":"Lagos, Nigeria",
+      "state":"Lagos"      
+    },
+    "website": "",
+    "resumedownload":"https://drive.google.com/open?id=1QB40aRKqMx392tUk3lTJWAR1AOlkJGyN",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/ganihujude",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/kpose",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over",
+    "education":[
+      {
+        "school":"University of Nigeria",
+        "degree":"Bachelors in Geology",
+        "graduated":"2016"
+        
+      }
+    ],
+    "work":[
+      {
+        "company":"NaijaHacks",
+        "title": "Frontend Engineer",
+        "years": "August 2017 - 2019",
+        "description": "I led the development of V2 portal, moving codebase from html/css to React which improved hacker registration and setup by matching them to mentors and teammates. I have worked extensively with React/Redux as well as with react hooks."
+      },
+      {
+        "company":"Udacity/Andela",
+        "title":"Android Developer Mentor ",
+        "years":"2018-2019",
+        "description":"I worked as a mentor and code reviewer to students who were participants of the Android Nanodegree course by Udacity in partnership with Andela. During my role, i learnt as much as i mentored and thought and this helped the students and I grow in both tech skills and soft skills. "
+      },
+      {
+        "company":"Portings: (startup)",
+        "title":"Frontend Developer",
+        "years":"September 2016-June 2018",
+        "description":" Developed web pages to showcase the company’s products and services, i also ensured quality code base by applying TDD principles to develop readable, maintainable and scalable code for websites. I also developed screen layouts on Android studio while working with the Android team"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",        
+        "image":"git.jpg"
+      },
+      {
+        "name":"Javascript",        
+        "image":"javascript.png"
+      },
+      {
+        "name":"React Js",        
+        "image":"react.jpg"
+      },
+      {
+        "name":"Redux",      
+        "image":"redux.png"
+      },
+
+      {
+        "name":"Node JS",       
+        "image":"nodejs.png"
+      },
+      {
+        "name":"Material UI",        
+        "image":"material-ui.png"
+      },
+      {
+        "name":"Firebase",        
+        "image":"firebase.png"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Heyoo!!",
+        "category":"Fullstack severless social media app",
+        "image":"heyoo.jpg",
+        "url": "http://heyoo-9a975.firebaseapp.com"
+      },
+      {
+        "title":"Foodate",
+        "category":"Android and iOS Restaurant picker app",
+        "image":"image-feed.jpg",
+        "url":"https://exp.host/@kpose/foodate"
+      },
+      {
+        "title":"Starwors",
+        "category":"Starwars IOS app",
+        "image":"star-wars.jpg",
+        "url":"https://exp.host/@kpose/starwars"
+      },
+      {
+        "title":"Contact-List",
+        "category":"Phone Contacts IOS app",
+        "image":"contact-list.jpg",
+        "url":"https://exp.host/@kpose/contacts"
+      }
+    ]
+  }
+}
