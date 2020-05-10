@@ -1,5 +1,6 @@
 {
-  "name": "website",
+  "name": "JudeGanihu",
+  "homepage": "https://kpose.dev",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

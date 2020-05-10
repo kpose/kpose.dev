@@ -1,19 +1,19 @@
 {
   "main": {
     "name":"Jude Ganihu",
-    "occupation":"Mobile Developer/Front End Engineer",
-    "description":" currently open to new offers. ",
+    "occupation":"Frontend Mobile Software Developer (React-Native)",
+    "description":" currently open to new offers.",
     "employer":"Shop Your Own Mortgage",
     "jobDescription":"full stack software engineer across the range of our products, as well being our lead security specialist",
     "image":"profile_pic.jpg",
     "bio":"I am an athlete at heart, with an entrepreneurial spirit, a knack for online security, and a passion for coding. I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, as continuing to be up to date with the tech ecosystem is important to me and the success of my career.",
     "email": "ganihujude@gmail.com",
     "address":{      
-      "city":"Lagos, Nigeria",
+      "city":"Nigeria (Open to relocation)",
       "state":"Lagos"      
     },
     "website": "",
-    "resumedownload":"https://drive.google.com/open?id=1QB40aRKqMx392tUk3lTJWAR1AOlkJGyN",
+    "resumedownload":"https://drive.google.com/open?id=1FqXPWYUhUhRnEg_2CIZmjgpOKohhjc9q",
     "social":[
       {
         "name":"linkedin",
@@ -42,7 +42,7 @@
         "company":"NaijaHacks",
         "title": "Frontend Engineer",
         "years": "August 2017 - 2019",
-        "description": "I led the development of V2 portal, moving codebase from html/css to React which improved hacker registration and setup by matching them to mentors and teammates. I have worked extensively with React/Redux as well as with react hooks."
+        "description": "I led the development of V2 portal, moving codebase from html/css to React which improved hacker registration and setup by matching them to mentors and teammates. I have worked extensively with React/Redux as well as with react hooks and redux."
       },
       {
         "company":"Udacity/Andela",
@@ -92,8 +92,14 @@
   "portfolio":{
     "projects": [
       {
+        "title":"Trivia24",
+        "category":"React Native iOS Trivia contest app",
+        "image":"trivia.PNG",
+        "url":"https://github.com/kpose/Trivia24"
+      },
+      {
         "title":"Heyoo!!",
-        "category":"Fullstack severless social media app",
+        "category":"Fullstack serverless social media app",
         "image":"heyoo.jpg",
         "url": "http://heyoo-9a975.firebaseapp.com"
       },
@@ -101,19 +107,13 @@
         "title":"Foodate",
         "category":"Android and iOS Restaurant picker app",
         "image":"image-feed.jpg",
-        "url":"https://exp.host/@kpose/foodate"
+        "url": "https://github.com/kpose/FooDate"
       },
       {
         "title":"Starwors",
-        "category":"Starwars IOS app",
+        "category":"React Native Star-Wars app",
         "image":"star-wars.jpg",
-        "url":"https://exp.host/@kpose/starwars"
-      },
-      {
-        "title":"Contact-List",
-        "category":"Phone Contacts IOS app",
-        "image":"contact-list.jpg",
-        "url":"https://exp.host/@kpose/contacts"
+        "url":" https://github.com/kpose/Stawos"
       }
     ]
   }
